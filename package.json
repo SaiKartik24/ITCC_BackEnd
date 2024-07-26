@@ -1,0 +1,12 @@
+{
+  "name": "itcc_backend",
+  "version": "1.0.0",
+  "description": "Share and Learn Together Make special groups for people who do the same kind of work.  Help each other by sharing what you know and how to do things best. Issue Resolution: If a team member encounters a coding issue, they can post it on the relevant community platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
